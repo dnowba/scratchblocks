@@ -1,5 +1,5 @@
 {
-  "zh_CN": {
+  "zh_TW": {
     "aliases": {
       "左轉 %n 度": "turn @turnLeft %n degrees",
       "右轉 %n 度": "turn @turnRight %n degrees",
